@@ -113,7 +113,7 @@ html {
     right: 5px;
     top: -20px;
 }
-.header .linkes:focus ul {display: block;}
+.header .linkes:hover ul {display: block;}
 .header .linkes ul li:not(:last-child) a {
     border-bottom: 1px solid #ddd;
 }
